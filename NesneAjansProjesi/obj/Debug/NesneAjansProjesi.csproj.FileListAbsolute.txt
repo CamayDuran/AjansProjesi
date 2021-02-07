@@ -1,0 +1,63 @@
+C:\Users\Lenovo\Desktop\NesneAjansProjesi\NesneAjansProjesi\NesneAjansProjesi\bin\Debug\NesneAjansProjesi.exe.config
+C:\Users\Lenovo\Desktop\NesneAjansProjesi\NesneAjansProjesi\NesneAjansProjesi\bin\Debug\NesneAjansProjesi.exe
+C:\Users\Lenovo\Desktop\NesneAjansProjesi\NesneAjansProjesi\NesneAjansProjesi\bin\Debug\NesneAjansProjesi.pdb
+C:\Users\Lenovo\Desktop\NesneAjansProjesi\NesneAjansProjesi\NesneAjansProjesi\obj\Debug\NesneAjansProjesi.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\NesneAjansProjesi\NesneAjansProjesi\NesneAjansProjesi\obj\Debug\NesneAjansProjesi.Form1.resources
+C:\Users\Lenovo\Desktop\NesneAjansProjesi\NesneAjansProjesi\NesneAjansProjesi\obj\Debug\NesneAjansProjesi.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\NesneAjansProjesi\NesneAjansProjesi\NesneAjansProjesi\obj\Debug\NesneAjansProjesi.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\NesneAjansProjesi\NesneAjansProjesi\NesneAjansProjesi\obj\Debug\NesneAjansProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\NesneAjansProjesi\NesneAjansProjesi\NesneAjansProjesi\obj\Debug\NesneAjansProjesi.exe
+C:\Users\Lenovo\Desktop\NesneAjansProjesi\NesneAjansProjesi\NesneAjansProjesi\obj\Debug\NesneAjansProjesi.pdb
+C:\Users\Lenovo\Desktop\NesneAjansProjesi\NesneAjansProjesi\NesneAjansProjesi\obj\Debug\NesneAjansProjesi.Giris.resources
+C:\Users\Kübra\Downloads\NesneAjansProjesi\NesneAjansProjesi\NesneAjansProjesi\NesneAjansProjesi\bin\Debug\NesneAjansProjesi.exe.config
+C:\Users\Kübra\Downloads\NesneAjansProjesi\NesneAjansProjesi\NesneAjansProjesi\NesneAjansProjesi\bin\Debug\NesneAjansProjesi.exe
+C:\Users\Kübra\Downloads\NesneAjansProjesi\NesneAjansProjesi\NesneAjansProjesi\NesneAjansProjesi\bin\Debug\NesneAjansProjesi.pdb
+C:\Users\Kübra\Downloads\NesneAjansProjesi\NesneAjansProjesi\NesneAjansProjesi\NesneAjansProjesi\obj\Debug\NesneAjansProjesi.csprojAssemblyReference.cache
+C:\Users\Kübra\Downloads\NesneAjansProjesi\NesneAjansProjesi\NesneAjansProjesi\NesneAjansProjesi\obj\Debug\NesneAjansProjesi.Form1.resources
+C:\Users\Kübra\Downloads\NesneAjansProjesi\NesneAjansProjesi\NesneAjansProjesi\NesneAjansProjesi\obj\Debug\NesneAjansProjesi.Giris.resources
+C:\Users\Kübra\Downloads\NesneAjansProjesi\NesneAjansProjesi\NesneAjansProjesi\NesneAjansProjesi\obj\Debug\NesneAjansProjesi.Properties.Resources.resources
+C:\Users\Kübra\Downloads\NesneAjansProjesi\NesneAjansProjesi\NesneAjansProjesi\NesneAjansProjesi\obj\Debug\NesneAjansProjesi.csproj.GenerateResource.cache
+C:\Users\Kübra\Downloads\NesneAjansProjesi\NesneAjansProjesi\NesneAjansProjesi\NesneAjansProjesi\obj\Debug\NesneAjansProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Kübra\Downloads\NesneAjansProjesi\NesneAjansProjesi\NesneAjansProjesi\NesneAjansProjesi\obj\Debug\NesneAjansProjesi.exe
+C:\Users\Kübra\Downloads\NesneAjansProjesi\NesneAjansProjesi\NesneAjansProjesi\NesneAjansProjesi\obj\Debug\NesneAjansProjesi.pdb
+C:\Users\Kübra\Downloads\NesneAjansProjesi\NesneAjansProjesi\NesneAjansProjesi\NesneAjansProjesi\obj\Debug\NesneAjansProjesi.Form2.resources
+C:\Users\Kübra\Downloads\NesneAjansProjesi\NesneAjansProjesi\NesneAjansProjesi\NesneAjansProjesi\obj\Debug\NesneAjansProjesi.Form3.resources
+C:\Users\Lenovo\Downloads\NesneAjansProjesi (4)\NesneAjansProjesi\NesneAjansProjesi\obj\Debug\NesneAjansProjesi.csprojAssemblyReference.cache
+C:\Users\Lenovo\Downloads\NesneAjansProjesi (4)\NesneAjansProjesi\NesneAjansProjesi\obj\Debug\NesneAjansProjesi.Form1.resources
+C:\Users\Lenovo\Downloads\NesneAjansProjesi (4)\NesneAjansProjesi\NesneAjansProjesi\obj\Debug\NesneAjansProjesi.Form2.resources
+C:\Users\Lenovo\Downloads\NesneAjansProjesi (4)\NesneAjansProjesi\NesneAjansProjesi\obj\Debug\NesneAjansProjesi.Form3.resources
+C:\Users\Lenovo\Downloads\NesneAjansProjesi (4)\NesneAjansProjesi\NesneAjansProjesi\obj\Debug\NesneAjansProjesi.Giris.resources
+C:\Users\Lenovo\Downloads\NesneAjansProjesi (4)\NesneAjansProjesi\NesneAjansProjesi\obj\Debug\NesneAjansProjesi.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\NesneAjansProjesi (4)\NesneAjansProjesi\NesneAjansProjesi\obj\Debug\NesneAjansProjesi.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\NesneAjansProjesi (4)\NesneAjansProjesi\NesneAjansProjesi\obj\Debug\NesneAjansProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\NesneAjansProjesi (4)\NesneAjansProjesi\NesneAjansProjesi\obj\Debug\NesneAjansProjesi.exe
+C:\Users\Lenovo\Downloads\NesneAjansProjesi (4)\NesneAjansProjesi\NesneAjansProjesi\obj\Debug\NesneAjansProjesi.pdb
+C:\Users\Lenovo\Downloads\NesneAjansProjesi (4)\NesneAjansProjesi\NesneAjansProjesi\bin\Debug\NesneAjansProjesi.exe.config
+C:\Users\Lenovo\Downloads\NesneAjansProjesi (4)\NesneAjansProjesi\NesneAjansProjesi\bin\Debug\NesneAjansProjesi.exe
+C:\Users\Lenovo\Downloads\NesneAjansProjesi (4)\NesneAjansProjesi\NesneAjansProjesi\bin\Debug\NesneAjansProjesi.pdb
+C:\Users\Kübra\Downloads\NesneAjansProjesi_4\NesneAjansProjesi (4)\NesneAjansProjesi\NesneAjansProjesi\bin\Debug\NesneAjansProjesi.exe.config
+C:\Users\Kübra\Downloads\NesneAjansProjesi_4\NesneAjansProjesi (4)\NesneAjansProjesi\NesneAjansProjesi\bin\Debug\NesneAjansProjesi.exe
+C:\Users\Kübra\Downloads\NesneAjansProjesi_4\NesneAjansProjesi (4)\NesneAjansProjesi\NesneAjansProjesi\bin\Debug\NesneAjansProjesi.pdb
+C:\Users\Kübra\Downloads\NesneAjansProjesi_4\NesneAjansProjesi (4)\NesneAjansProjesi\NesneAjansProjesi\obj\Debug\NesneAjansProjesi.csprojAssemblyReference.cache
+C:\Users\Kübra\Downloads\NesneAjansProjesi_4\NesneAjansProjesi (4)\NesneAjansProjesi\NesneAjansProjesi\obj\Debug\NesneAjansProjesi.Form1.resources
+C:\Users\Kübra\Downloads\NesneAjansProjesi_4\NesneAjansProjesi (4)\NesneAjansProjesi\NesneAjansProjesi\obj\Debug\NesneAjansProjesi.Form2.resources
+C:\Users\Kübra\Downloads\NesneAjansProjesi_4\NesneAjansProjesi (4)\NesneAjansProjesi\NesneAjansProjesi\obj\Debug\NesneAjansProjesi.Form3.resources
+C:\Users\Kübra\Downloads\NesneAjansProjesi_4\NesneAjansProjesi (4)\NesneAjansProjesi\NesneAjansProjesi\obj\Debug\NesneAjansProjesi.Giris.resources
+C:\Users\Kübra\Downloads\NesneAjansProjesi_4\NesneAjansProjesi (4)\NesneAjansProjesi\NesneAjansProjesi\obj\Debug\NesneAjansProjesi.Properties.Resources.resources
+C:\Users\Kübra\Downloads\NesneAjansProjesi_4\NesneAjansProjesi (4)\NesneAjansProjesi\NesneAjansProjesi\obj\Debug\NesneAjansProjesi.csproj.GenerateResource.cache
+C:\Users\Kübra\Downloads\NesneAjansProjesi_4\NesneAjansProjesi (4)\NesneAjansProjesi\NesneAjansProjesi\obj\Debug\NesneAjansProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Kübra\Downloads\NesneAjansProjesi_4\NesneAjansProjesi (4)\NesneAjansProjesi\NesneAjansProjesi\obj\Debug\NesneAjansProjesi.exe
+C:\Users\Kübra\Downloads\NesneAjansProjesi_4\NesneAjansProjesi (4)\NesneAjansProjesi\NesneAjansProjesi\obj\Debug\NesneAjansProjesi.pdb
+C:\Users\Kübra\Desktop\NesneAjansProjesi\NesneAjansProjesi\bin\Debug\NesneAjansProjesi.exe.config
+C:\Users\Kübra\Desktop\NesneAjansProjesi\NesneAjansProjesi\bin\Debug\NesneAjansProjesi.exe
+C:\Users\Kübra\Desktop\NesneAjansProjesi\NesneAjansProjesi\bin\Debug\NesneAjansProjesi.pdb
+C:\Users\Kübra\Desktop\NesneAjansProjesi\NesneAjansProjesi\obj\Debug\NesneAjansProjesi.csprojAssemblyReference.cache
+C:\Users\Kübra\Desktop\NesneAjansProjesi\NesneAjansProjesi\obj\Debug\NesneAjansProjesi.Form1.resources
+C:\Users\Kübra\Desktop\NesneAjansProjesi\NesneAjansProjesi\obj\Debug\NesneAjansProjesi.Form2.resources
+C:\Users\Kübra\Desktop\NesneAjansProjesi\NesneAjansProjesi\obj\Debug\NesneAjansProjesi.Form3.resources
+C:\Users\Kübra\Desktop\NesneAjansProjesi\NesneAjansProjesi\obj\Debug\NesneAjansProjesi.Giris.resources
+C:\Users\Kübra\Desktop\NesneAjansProjesi\NesneAjansProjesi\obj\Debug\NesneAjansProjesi.Properties.Resources.resources
+C:\Users\Kübra\Desktop\NesneAjansProjesi\NesneAjansProjesi\obj\Debug\NesneAjansProjesi.csproj.GenerateResource.cache
+C:\Users\Kübra\Desktop\NesneAjansProjesi\NesneAjansProjesi\obj\Debug\NesneAjansProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Kübra\Desktop\NesneAjansProjesi\NesneAjansProjesi\obj\Debug\NesneAjansProjesi.exe
+C:\Users\Kübra\Desktop\NesneAjansProjesi\NesneAjansProjesi\obj\Debug\NesneAjansProjesi.pdb
